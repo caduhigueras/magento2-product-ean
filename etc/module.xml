@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--/**
+* CodeBaby_EanAttribute | module.xml
+* Created by CodeBaby DevTeam.
+* User: cadu.higueras
+* Date: 6/4/2021
+**/-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="CodeBaby_EanAttribute">
+        <sequence>
+        </sequence>
+    </module>
+</config>
